@@ -13,3 +13,5 @@ def gerar_frase():
 # Gera 5 frases aleatórias
 for _ in range(5):
     print(gerar_frase())
+
+print("essa é a frase final")
